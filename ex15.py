@@ -24,6 +24,9 @@ print "Here is your file %r:" %filename
 #file.
 print txt.read()
 
+#it is important to close files when you are done with them.
+nxt_txt.close()
+
 #We do the same thing again, this time asking for input with a prompt
 print "Type another file, or the same one for all I care."
 #This is a nested function. Instad of putting the input in a variable,
@@ -32,3 +35,4 @@ print "Type another file, or the same one for all I care."
 nxt_txt = open(raw_input('> '))
 
 print nxt_txt.read()
+nxt_txt.close()
