@@ -1,0 +1,12 @@
+This is a test file.
+It
+should 
+have lots
+of linesadsfjalsd;kjf2222949!!!
+of various
+sizes
+Note that there are 
+more
+lines in this file than the script in the exercise
+writes.
+Truncating gets rid of everything.
