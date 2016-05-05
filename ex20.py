@@ -33,7 +33,7 @@ print "First let's print the whole file:\n"
 print_all(current_file)
 
 print """
-We printed using a pointer *aaahh!!! scary word*. That pointer is now at the
+We printed using a iterator *aaahh!!! scary word*. That iterator is now at the
 end of the file, so we have to rewind it like a tape.
 """
 
