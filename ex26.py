@@ -77,10 +77,10 @@ print "We'd have %d jeans, %d jars, and %d crates." % (beans, jars, crates)
 start_point = start_point / 10
 
 print "We can also do that this way:"
-print "We'd have %d beans, %d jars, and %d crabapples." % secret_formula(start_pont
+print "We'd have %d beans, %d jars, and %d crabapples." % secret_formula(start_point)
 
 
-sentence = "All god\tthings come to those who weight."
+sentence = "All god \t things come to those who weight."
 
 words = ex25.break_words(sentence)
 sorted_words = ex25.sort_words(words)
