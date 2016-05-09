@@ -80,7 +80,7 @@ print "We can also do that this way:"
 print "We'd have %d beans, %d jars, and %d crates." % secret_formula(start_point)
 
 
-sentence = "All god \t things come to those who weight."
+sentence = "All good things come to those who wait."
 
 words = break_words(sentence)
 sorted_words = sort_words(words)
