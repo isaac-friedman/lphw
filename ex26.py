@@ -42,15 +42,15 @@ def print_first_and_last_sorted(sentence):
 
 
 print "Let's practice everything."
-print 'You\'d need to know \'bout escapes with \\ that do \n newlines and \t tabs.'
+print 'You\'d have to know \'bout escapes with \\ that do \n newlines and \t tabs.'
 
 poem = """
-\tThe lovely world
+\t The lovely world
 with logic so firmly planted
 cannot discern \n the needs of love
 nor comprehend passion from intuition
-and requires an explantion
-\n\t\twhere there is none.
+and requires an explanation
+\n\t\t where there is none.
 """
 
 
