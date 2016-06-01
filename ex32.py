@@ -18,9 +18,9 @@ for i in change:
 #We can also built lists with loops. First start with an empty one
 elements = []
 
-#then use the range function to count to 5 from 0. 
+#then use the range function to count from zero to 5. 
 #Reread that last bit. It's important!
-for i in range(0, 6):
+for i in range(0, 6): #range goes up to BUT DOESN'T INCLUDE the last element
 	print "adding %d to the lists." % i
 	#append is a function that lists understand. It does the same
 	#thing as the English word 'append'
