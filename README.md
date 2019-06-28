@@ -1,2 +1,2 @@
 # lphw
-My workthrough of Lear Python the Hard Way by Zed Shaw
+My workthrough of Learn Python the Hard Way by Zed Shaw
